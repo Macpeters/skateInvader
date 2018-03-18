@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "199acd24-a474-4cd7-bc4b-9dbe4fd57216",
+            "Value": {
+                "id": "9b3ca09b-6d66-4730-b744-f2b87e0a64fb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_skatepark\/obj_skatepark.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d3398e2-1f51-4f5a-9abc-0c833912faa8",
             "Value": {
                 "id": "7110ec1b-fd27-4157-90fc-c4e969867ae0",
@@ -264,6 +283,25 @@
                 ],
                 "resourcePath": "views\/48ce19de-bc71-493f-9b0d-b859b0b7c80c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5aedb6c9-07b7-4ab9-999a-25502ff1a6e5",
+            "Value": {
+                "id": "408c5625-1761-4cb9-808e-5fd81af94c07",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_skatepark\/spr_skatepark.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -514,6 +552,25 @@
             }
         },
         {
+            "Key": "aa89e900-4528-4544-9d6a-a0a9afd9099f",
+            "Value": {
+                "id": "a0a4e021-960b-4510-acd5-0e4a46cb56ad",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_skatepark_think\/spr_skatepark_think.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ae614d49-fa4e-43d5-9b10-968b1199b429",
             "Value": {
                 "id": "566b76e5-e583-4d3a-a23e-c62b7befc27f",
@@ -548,6 +605,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_food\/spr_food.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b22f8df3-1c16-4d01-8030-4159e6a77965",
+            "Value": {
+                "id": "eb9e175d-a531-4295-8f7f-b350e3a3416c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_burger_shop\/spr_burger_shop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -739,6 +815,25 @@
                 ],
                 "resourcePath": "scripts\/scr_get_key\/scr_get_key.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eed2f935-b875-49d0-b8bf-83049bac39e4",
+            "Value": {
+                "id": "c657e72f-e157-4e2c-a647-cd1a955cce1a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_select\/obj_select.yy",
+                "resourceType": "GMObject"
             }
         },
         {

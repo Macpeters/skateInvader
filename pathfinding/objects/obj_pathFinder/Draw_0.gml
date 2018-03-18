@@ -5,6 +5,7 @@ draw_self();
 var halfBlockWidth = 0.5 * oAStar.block_size;
 var pathNumber = path_get_number(path_index);
 
+/*
 //draw path elements
 if(pathNumber >= 2){
 	//draw path
@@ -34,14 +35,21 @@ if(pathNumber >= 2){
 		false
 	);
 	
+}*/
+
+if(selected == true){
+	draw_set_color(c_yellow);
+	radius = sprite_width / 2;
+	draw_circle(x + radius, y + radius, radius, true)
 }
 
-
+/*
 draw_set_color(c_blue);
 draw_text(x, y - 32, string(state));
+*/
 
 if(target != noone && target != -1){
-	draw_sprite(target.sprite_index, 0, x-32, y-32);
+	draw_sprite(think_sprite, 0, x-32, y-32);
 }
 
 /*

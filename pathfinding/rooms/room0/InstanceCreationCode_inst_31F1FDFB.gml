@@ -1,2 +1,2 @@
 target_type = "social";
-sprite_index = spr_food;
+sprite_index = spr_burger_shop;
